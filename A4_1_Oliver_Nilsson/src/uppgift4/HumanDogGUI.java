@@ -99,7 +99,7 @@ public class HumanDogGUI extends JFrame {
 					dog = new Dog(String.valueOf(textField_1.getText()));
 					human.buyDog(dog);
 				}else{
-					textArea_1.setText("Dog must have an owner, you fooo");
+					textArea_1.setText("Dog must have an owner.");
 				}
 			}
 		});
