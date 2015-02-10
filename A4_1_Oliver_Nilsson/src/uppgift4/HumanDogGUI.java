@@ -28,6 +28,11 @@ public class HumanDogGUI extends JFrame {
 	private JTextArea textArea_1;
 	private final int MIN_LENGTH = 3;
 	
+	/**
+	 * Godkänt. :)
+	 * Anton N.
+	 */
+	
 
 	/**
 	 * Launch the application.
