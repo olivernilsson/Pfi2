@@ -21,7 +21,11 @@ public class AnimalListGUI extends JFrame {
 
 	
 
-	
+	/**
+	 *  Godkänt.
+	 *  Skriv gärna kommentarer om metoderna till nästa uppgift.
+	 *  /Anton N
+	 */
 	
 	
 	
