@@ -38,10 +38,7 @@ public class GUI extends JFrame {
 	JTextArea textAreaJourney = new JTextArea();
 
 	GUI gui = this;
-	
-	Thread t1;
-	Thread t2;
-	
+
 	/**
 	 * Launch the application.
 	 */
