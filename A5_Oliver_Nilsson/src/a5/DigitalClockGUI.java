@@ -19,7 +19,7 @@ import java.awt.event.ActionEvent;
 import java.awt.Toolkit;
 import javax.swing.ImageIcon;
 import javax.swing.JCheckBox;
-
+//asd
 
 public class DigitalClockGUI extends JFrame {
 
