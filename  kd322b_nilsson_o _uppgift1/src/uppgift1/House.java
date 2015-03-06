@@ -1,7 +1,7 @@
 package uppgift1;
 
 public class House {
-
+//asdas
 	 private int yearBuilt;
 	 private int size;
 	 private final int minSize = 10;
