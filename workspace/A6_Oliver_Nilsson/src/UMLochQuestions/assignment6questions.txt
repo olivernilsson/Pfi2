@@ -1,0 +1,12 @@
+1. Malmö C till Lund C
+
+2. ?cmdaction=next&selPointFr=0|80000|0&selPointTo=0|81216|0&NoOf=5
+
+3.1. Journeys - Alla olika resor man kan ta för att komma till målet
+3.2. Journey - en specifik resa
+3.3. routelinks - alla delar i en resa
+3.4. routelink - en specifik del av en resa
+
+4. NoOfChanges innehåller antalet byten, huvudtagg är Journey
+
+5. <p>
